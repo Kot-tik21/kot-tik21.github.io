@@ -1,0 +1,33 @@
+html {
+    font-size: 10px; /*высота базового шрифта*/
+    font-family: 'Abril Fatface', cursive; /*имя шрифта*/
+    background-color: #EEE5FA;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #8338E5;
+    text-shadow: 3px 3px 1px black;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px; /*ширина тела*/
+    margin: 0 auto; /*верхний и нижний отступы, левая и правая стороны автоматически*/
+    background-color: #F6F0FD;
+    padding: 0 20px 20px 20px; /*сверху справа снизу влева*/
+    border: 5px solid black; /*сплошная черная рамка шириной 5 пикселей со всех сторон*/
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
